@@ -3,7 +3,7 @@
 </h1>
 #💫 About Me:
 
-![Animated-GIF-Banana](https://github.com/user-attachments/assets/5e7be5af-1c8b-4f46-b0ac-d0d65a8f0f68)
+![112830274611465833b494254f6629aa](https://github.com/user-attachments/assets/e3295b54-a6fa-405c-9bb8-6144b73582ce)
 
 
 ## 🌐 Socials:
