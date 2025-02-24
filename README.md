@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!;Hello+Everyone!;I'm Chantha🔥;" alt="Typing SVG">
+</h1>
 # 💫 About Me:
 https://github.com/PhoeunChantha/Nettech_Website10.git<br>https://github.com/PhoeunChantha/Flutter_Project.git
 
