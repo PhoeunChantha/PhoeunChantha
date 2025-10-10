@@ -1,5 +1,4 @@
 <div align="center">
-  
   <img src="https://www.chantha.dev/fav_icon.jpg" alt="Phoeun Chantha" width="200" style="border-radius: 50%"/>
   <br/>
   
@@ -16,7 +15,6 @@
 </div>
 
 ---
-
 
 ## 🚀 About Me
 
@@ -39,15 +37,6 @@ const chantha = {
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-</div>
-<br/>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -102,15 +91,15 @@ const chantha = {
 
 ---
 
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects or discussing web development!
 
 <div align="center">
   
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/phoeun.chantha)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phouen_chantha)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/phoeun.chantha?mibextid=ZbWKwL)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phouen_chantha?igsh=MWxpa3JjZTB4OGl4aw==)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chantha123.00?_t=ZS-8zOXOyvbBMf&_r=1)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chantha-phoeun-a09747337)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phoeunchantha1111@gmail.com)
   
@@ -125,4 +114,3 @@ I'm always interested in collaborating on exciting projects or discussing web de
   ⭐️ From [PhoeunChantha](https://github.com/PhoeunChantha)
   
 </div>
-
