@@ -1,4 +1,5 @@
 <div align="center">
+  
   <img src="https://www.chantha.dev/fav_icon.jpg" alt="Phoeun Chantha" width="200" style="border-radius: 50%"/>
   <br/>
   
@@ -8,10 +9,14 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chantha-phoeun-a09747337)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phoeunchantha1111@gmail.com)
   
+  ![Profile Views](https://komarev.com/ghpvc/?username=PhoeunChantha&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![GitHub followers](https://img.shields.io/github/followers/PhoeunChantha?style=flat-square&logo=github)
+  ![GitHub Stars](https://img.shields.io/github/stars/PhoeunChantha?style=flat-square&logo=github)
  
 </div>
 
 ---
+
 
 ## 🚀 About Me
 
@@ -35,6 +40,15 @@ const chantha = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+</div>
+<br/>
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -52,6 +66,14 @@ const chantha = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+### Platforms
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -67,6 +89,19 @@ const chantha = {
 </div>
 
 ---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhoeunChantha&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhoeunChantha&theme=radical" alt="Contribution Details"/>
+</div>
+
+---
+
 
 ## 🤝 Let's Connect
 
@@ -90,3 +125,4 @@ I'm always interested in collaborating on exciting projects or discussing web de
   ⭐️ From [PhoeunChantha](https://github.com/PhoeunChantha)
   
 </div>
+
