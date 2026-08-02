@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://www.chantha.dev/fav_icon.jpg" alt="Phoeun Chantha" width="200" style="border-radius: 50%"/>
+  <img src="https://www.phoeunchantha.me/fav_icon.jpg" alt="Phoeun Chantha" width="200" style="border-radius: 50%"/>
   <br/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Phoeun+Chantha;Full-Stack+Developer;Problem+Solver;IT+Graduate" alt="Typing SVG" />
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-chantha.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.chantha.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-chantha.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.phoeunchantha.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chantha-phoeun-a09747337)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phoeunchantha1111@gmail.com)
   
